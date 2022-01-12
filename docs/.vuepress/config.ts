@@ -8,7 +8,7 @@ module.exports = {
     logo: 'https://vuejs.org/images/logo.png',
   },
 
-  base: './',
+  base: '/blog/',
   configureWebpack: {
     resolve: {
       alias: {
